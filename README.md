@@ -32,7 +32,7 @@ All you have to with your Notepad++ install is open the "Plugins" menu and selec
 
 #### Binding your Key Shortcut
 
-Advice found [here](https://community.notepad-plus-plus.org/topic/14703/run-python-script-pythonscript-plugin-with-a-shortcut/3):
+Follow the advice below, found [here](https://community.notepad-plus-plus.org/topic/14703/run-python-script-pythonscript-plugin-with-a-shortcut/3):
 
 <blockquote style="font-size:4px">
 <sub>Go to **Plugins** (menu) -> **Python Script** -> **Configuration**. The **Python Script Shortcut Configuration** window will appear.</sub>
