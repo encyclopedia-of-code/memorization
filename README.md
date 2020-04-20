@@ -26,3 +26,31 @@ After following the below instructions to install, simply press *Alt+z* (or your
 I assume you're already a Notepad++ user; I maintain all sorts of detailed notes (recipes, to-do lists) using Notepad++.
 
 All you have to with your Notepad++ install is open the "Plugins" menu and select the popular plugin called "Python Script".  Install it, then drop the attached script from this repo into your "scripts" folder.  Lastly, associate a new key binding with that script.  
+
+## Full Source Code
+
+```
+import random
+
+wasEmpty = editor.getSelectionEmpty()
+cursorPos = editor.getCurrentPos()
+
+if wasEmpty:
+  editor.home()
+  editor.lineEndExtend()
+else:
+  anchor = editor.getAnchor()
+  
+selection = editor.getSelText()
+selection = list( selection )
+selection[ random.randint( 0, len( selection )-1 ) ] = chr( random.randint( 0x20, 0x7E ) )
+selection = "".join( selection )
+
+editor.replaceSel( selection )
+
+if wasEmpty:
+  editor.setEmptySelection( cursorPos )
+else:
+  editor.setCurrentPos( cursorPos )
+  editor.setAnchor( anchor )
+```
