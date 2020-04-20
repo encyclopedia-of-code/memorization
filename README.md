@@ -16,7 +16,7 @@ If you use this tool, you eventually end up with a gibberish passage of text tha
 
 When you do your corrupting, do it inside of a file that no one else can see, where you can backtrack in the undo-history if necessary in case you ever need a reminder (you forgot a subsitution).  Then, freely copy the finished text outside to another file, where it will appear as gibberish once seperated from the context of how it got to be that way.
 
-### Preserve Your Original Data!
+#### Preserve Your Original Data!
 
 Obviously you shouldn't corrupt your only source of any text!  If it's important enough to you to memorize, you don't want to risk data loss.  Instead, keep the original text secure in one (private) document, corrupt it in another (private) document, and then copy the final text to a third document whenever you want your secret reminders to appear publicly in a form that is meaningless to everyone but you.
 
