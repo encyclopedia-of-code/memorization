@@ -25,9 +25,9 @@ After following the below instructions to install, simply press *Alt+z* (or your
 
 I assume you're already a Notepad++ user; I maintain all sorts of detailed notes (recipes, to-do lists) using Notepad++.
 
-All you have to with your Notepad++ install is open the "Plugins" menu and select the popular plugin called "Python Script".  Install it, then drop the attached script from this repo into your "scripts" folder.  Lastly, associate a new key binding with that script.  
+All you have to with your Notepad++ install is open the "Plugins" menu and select the popular plugin called "Python Script".  Install it, then drop the attached script from this repo into your "scripts" folder.  Lastly, associate a new key binding with that script.  I prefer binding *Alt+z* because it's available and the keys are near each other.
 
-#### Binding key shortcuts
+#### Binding your Key Shortcut
 
 Advice found [here](https://community.notepad-plus-plus.org/topic/14703/run-python-script-pythonscript-plugin-with-a-shortcut/3):
 
