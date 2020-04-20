@@ -36,13 +36,13 @@ Advice found [here](https://community.notepad-plus-plus.org/topic/14703/run-pyth
 
 <sub>In the **Scripts** area at the top of the **Python Script Shortcut Configuration** window, locate and select the script you want to bind to a shortcut (and/or toolbar button).</sub>
 
-Between the **Scripts** box and the **Menu items** (or **Toolbar icons**) caption there is an **Add** button. To get your script added as a menu item (necessary to bind a keycombo to it via the “Shortcut Mapper”), press the **Add** button (the one above the **Menu items** caption). Very similar but hopefully obvious what to do for a toolbar button.
+<sub>Between the **Scripts** box and the **Menu items** (or **Toolbar icons**) caption there is an **Add** button. To get your script added as a menu item (necessary to bind a keycombo to it via the “Shortcut Mapper”), press the **Add** button (the one above the **Menu items** caption). Very similar but hopefully obvious what to do for a toolbar button.</sub>
 
-Once you click **OK** to dismiss the **Python Script Shortcut Configuration** window, you should be able to go into **Plugins** (menu) -> **Python Script** (just point to that and let the menu cascade open) and then see your script at this level of the menu (between the **Scripts->** and **Configuration** entries). Seeing your script appear here is key to being able to tie it to a shortcut keycombo.
+<sub>Once you click **OK** to dismiss the **Python Script Shortcut Configuration** window, you should be able to go into **Plugins** (menu) -> **Python Script** (just point to that and let the menu cascade open) and then see your script at this level of the menu (between the **Scripts->** and **Configuration** entries). Seeing your script appear here is key to being able to tie it to a shortcut keycombo.</sub>
 
-Restart Notepad++. This allows the “Shortcut Mapper” to see that you’ve changed the **Plugins** (menu) -> **Python Script** menu contents.
+<sub>Restart Notepad++. This allows the “Shortcut Mapper” to see that you’ve changed the **Plugins** (menu) -> **Python Script** menu contents.</sub>
 
-Now go to **Settings** (menu) -> **Shortcut Mapper…** and select the **Plugin commands** tab. Scrolling down somewhat you should see your script in the **Name** column (along with “Pythonscript” in the **Plugin** column). Go ahead and select your script and assign a keycombo to it just like you would for any other command.
+<sub>Now go to **Settings** (menu) -> **Shortcut Mapper…** and select the **Plugin commands** tab. Scrolling down somewhat you should see your script in the **Name** column (along with “Pythonscript” in the **Plugin** column). Go ahead and select your script and assign a keycombo to it just like you would for any other command.</sub>
 </blockquote>
 
 ### To Modify
