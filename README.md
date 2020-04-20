@@ -75,5 +75,4 @@ else:
   editor.setCurrentPos( cursorPos )
   editor.setAnchor( anchor )
 ```
-#### Thanks
-<sub>Thanks to CrazySalamander from SomethingAwful for telling me about the cognitive fluency effect! </sub>
+Thanks to CrazySalamander from the SA forums for telling me about the cognitive fluency effect!
