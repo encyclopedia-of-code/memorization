@@ -31,10 +31,10 @@ All you have to with your Notepad++ install is open the "Plugins" menu and selec
 
 Advice found [here](https://community.notepad-plus-plus.org/topic/14703/run-python-script-pythonscript-plugin-with-a-shortcut/3):
 
-<blockquote style="font-size:4px"><sub>
-Go to **Plugins** (menu) -> **Python Script** -> **Configuration**. The **Python Script Shortcut Configuration** window will appear.
+<blockquote style="font-size:4px">
+<sub>Go to **Plugins** (menu) -> **Python Script** -> **Configuration**. The **Python Script Shortcut Configuration** window will appear.</sub>
 
-In the **Scripts** area at the top of the **Python Script Shortcut Configuration** window, locate and select the script you want to bind to a shortcut (and/or toolbar button).
+<sub>In the **Scripts** area at the top of the **Python Script Shortcut Configuration** window, locate and select the script you want to bind to a shortcut (and/or toolbar button).</sub>
 
 Between the **Scripts** box and the **Menu items** (or **Toolbar icons**) caption there is an **Add** button. To get your script added as a menu item (necessary to bind a keycombo to it via the “Shortcut Mapper”), press the **Add** button (the one above the **Menu items** caption). Very similar but hopefully obvious what to do for a toolbar button.
 
@@ -43,7 +43,7 @@ Once you click **OK** to dismiss the **Python Script Shortcut Configuration** wi
 Restart Notepad++. This allows the “Shortcut Mapper” to see that you’ve changed the **Plugins** (menu) -> **Python Script** menu contents.
 
 Now go to **Settings** (menu) -> **Shortcut Mapper…** and select the **Plugin commands** tab. Scrolling down somewhat you should see your script in the **Name** column (along with “Pythonscript” in the **Plugin** column). Go ahead and select your script and assign a keycombo to it just like you would for any other command.
-</sub></blockquote>
+</blockquote>
 
 ### To Modify
   To edit this script's behavior or to make your own script to control all of Notepad++'s functionality, [read the documentation for the Python Script tool.](http://npppythonscript.sourceforge.net/)  The below source code should give you a head start in understanding how to control Notepad++.
