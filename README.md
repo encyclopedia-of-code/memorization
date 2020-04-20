@@ -8,7 +8,7 @@ Using a small Python script, this tool adds that sort of functionality to Notepa
 ## How to Memorize:
 If there's a passage of text you want to learn, try corrupting a small piece of it, so that you have to squint and think about it to read it.  Once you're used to it, corrupt it a little more, until you're finally seeing gibberish and mentally substituting real words where you remember they belong.  You've memorized one part!  Good.  Now move on to another.
 
-Better yet, don't corrupt any one line too fast or you'll forget the substitutions.  Instead, spread out your corruption efforts in small bits, and move through the whole document in multiple passes.
+Better yet, don't corrupt any one line too fast or you'll forget the substitutions.  Instead, spread out your corruption efforts in small bits, and move through the whole document in multiple passes.  Spread your passes out up to one per day if necessary.  Corrupt each line in different amounts, each one just enough to make you have to concentrate.
 
 ## InfoSec Applications
 
