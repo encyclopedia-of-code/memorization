@@ -1,5 +1,5 @@
 # memorization
-A tool to help you memorize text in Notepad++.  It uses the cognitive disfluency effect, by gradually corrupting text as you learn it.
+A tool to help you memorize text in Notepad++ using the cognitive disfluency effect -- by gradually "corrupting" the text while you're trying to learn it.
 
 Various researchers have discovered that learning is actually enhanced in some cases where the reader is forced to concentrate harder, such as when text is blurred or in an unfamiliar font.
 
