@@ -25,4 +25,4 @@ After following the below instructions to install, simply press *Alt+z* (or your
 
 I assume you're already a Notepad++ user; I maintain all sorts of detailed notes (recipes, to-do lists) using Notepad++.
 
-All you have to is select the Plugin called "Python Script" from the "Plugins" menu.  Then, drop the attached script from this repo into your "scripts" folder.  Lastly, associate a new key binding with that script.  
+All you have to with your Notepad++ install is open the "Plugins" menu and select the popular plugin called "Python Script".  Install it, then drop the attached script from this repo into your "scripts" folder.  Lastly, associate a new key binding with that script.  
