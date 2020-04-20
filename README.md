@@ -27,6 +27,9 @@ I assume you're already a Notepad++ user; I maintain all sorts of detailed notes
 
 All you have to with your Notepad++ install is open the "Plugins" menu and select the popular plugin called "Python Script".  Install it, then drop the attached script from this repo into your "scripts" folder.  Lastly, associate a new key binding with that script.  
 
+### To Modify
+  To edit this script's behavior or to make your own script to control all of Notepad++'s functionality, [http://npppythonscript.sourceforge.net/](read the documentation for the Python Script tool.)  The below source code should give you a head start in understanding how to control Notepad++.
+
 ## Full Source Code
 
 ```
