@@ -5,7 +5,7 @@ Various researchers have discovered that learning is actually enhanced in some c
 
 Using a small Python script, this tool adds that sort of functionality to Notepad++.  By pressing a keyboard shortcut, you can "corrupt" a selected region of text (or if none, corrupt the current line).  "Corrupting" changes one random character to something else; hold the key down to corrupt a lot.
 
-If there's a passage of text you want to learn, try corrupting a small piece of it, so that you have to squint and think about it to read it.  Once you're used to it, corrupt it a little more, until you're finally seeing gibberish and mentally substituting real words where you remember they belong.  You've memorized one part!  Good.  Now move on to another.  Don't go too fast or you'll forget the substitutions.  Work on each line a little at a time.
+If there's a passage of text you want to learn, try corrupting a small piece of it, so that you have to squint and think about it to read it.  Once you're used to it, corrupt it a little more, until you're finally seeing gibberish and mentally substituting real words where you remember they belong.  You've memorized one part!  Good.  Now move on to another.  Don't corrupt any one line too fast or you'll forget the substitutions.  Instead, spread out your efforts and move through the whole document in multiple passes.
 
 ## InfoSec Applications
 
