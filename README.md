@@ -27,6 +27,24 @@ I assume you're already a Notepad++ user; I maintain all sorts of detailed notes
 
 All you have to with your Notepad++ install is open the "Plugins" menu and select the popular plugin called "Python Script".  Install it, then drop the attached script from this repo into your "scripts" folder.  Lastly, associate a new key binding with that script.  
 
+#### Binding key shortcuts
+
+Advice found [here](https://community.notepad-plus-plus.org/topic/14703/run-python-script-pythonscript-plugin-with-a-shortcut/3):
+
+<blockquote>
+Go to **Plugins** (menu) -> **Python Script** -> **Configuration**. The **Python Script Shortcut Configuration** window will appear.
+
+In the **Scripts** area at the top of the **Python Script Shortcut Configuration** window, locate and select the script you want to bind to a shortcut (and/or toolbar button).
+
+Between the **Scripts** box and the **Menu items** (or **Toolbar icons**) caption there is an **Add** button. To get your script added as a menu item (necessary to bind a keycombo to it via the “Shortcut Mapper”), press the **Add** button (the one above the **Menu items** caption). Very similar but hopefully obvious what to do for a toolbar button.
+
+Once you click **OK** to dismiss the **Python Script Shortcut Configuration** window, you should be able to go into **Plugins** (menu) -> **Python Script** (just point to that and let the menu cascade open) and then see your script at this level of the menu (between the **Scripts->** and **Configuration** entries). Seeing your script appear here is key to being able to tie it to a shortcut keycombo.
+
+Restart Notepad++. This allows the “Shortcut Mapper” to see that you’ve changed the **Plugins** (menu) -> **Python Script** menu contents.
+
+Now go to **Settings** (menu) -> **Shortcut Mapper…** and select the **Plugin commands** tab. Scrolling down somewhat you should see your script in the **Name** column (along with “Pythonscript” in the **Plugin** column). Go ahead and select your script and assign a keycombo to it just like you would for any other command.
+</blockquote>
+
 ### To Modify
   To edit this script's behavior or to make your own script to control all of Notepad++'s functionality, [read the documentation for the Python Script tool.](http://npppythonscript.sourceforge.net/)  The below source code should give you a head start in understanding how to control Notepad++.
 
