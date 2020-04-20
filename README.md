@@ -9,7 +9,7 @@ If there's a passage of text you want to learn, try corrupting a small piece of 
 
 ## InfoSec Applications
 
-If you use this tool, you eventually end up with a gibberish passage of text that means something to you but not anyone else.  You can keep corrupting text beyond recognition as long as your memory can keep up with the substitutions.  Knowing how to de-code text that no one else can decode has obvious applications in information security, such as maintaining a list of passwords or pass-phrases.
+If you use this tool, you eventually end up with a gibberish passage of text that means something to you but not anyone else.  It's secure because you can keep corrupting text beyond the point of recoverability or recognizability -- as long as your brain can keep up with the substitutions.  Knowing how to de-code text that no one else can decode has obvious applications in information security, such as maintaining a list of passwords or pass-phrases.
 
 Do your corrupting inside of a file that no one else can see, where you can go backwards in the undo-history if necessary in case you need a reminder (you forgot a subsitution).  Then, freely copy the finished text outside to another file, where it will appear to gibberish without the context of the undo-history.
 
