@@ -35,6 +35,7 @@ All you have to with your Notepad++ install is open the "Plugins" menu and selec
 Follow the advice below, found [here](https://community.notepad-plus-plus.org/topic/14703/run-python-script-pythonscript-plugin-with-a-shortcut/3):
 
 <blockquote style="font-size:4px">
+  
 <sub>Go to **Plugins** (menu) -> **Python Script** -> **Configuration**. The **Python Script Shortcut Configuration** window will appear.</sub>
 
 <sub>In the **Scripts** area at the top of the **Python Script Shortcut Configuration** window, locate and select the script you want to bind to a shortcut (and/or toolbar button).</sub>
