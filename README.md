@@ -1,7 +1,7 @@
 # memorization
 This tool helps you memorize any text using what's known as the "cognitive disfluency effect" -- by gradually "corrupting" your text while you're trying to learn it.  It works within your Notepad++ text editor.
 
-Various researchers have discovered that learning is actually enhanced in some cases where the reader is forced to concentrate harder, such as when text is blurred or in an unfamiliar font.
+Various researchers have discovered that learning is actually enhanced in some cases where the reader is forced to concentrate harder, such as when text is blurred or in an unfamiliar font `[1-4]`.
 
 Using a small Python script, this tool adds that sort of functionality to Notepad++.  By pressing a keyboard shortcut, you can "corrupt" a selected region of text (or if none, corrupt the current line).  "Corrupting" changes one random character to something else; hold the key down to corrupt a lot.
 
@@ -81,14 +81,17 @@ else:
 ```
 Thanks to CrazySalamander from the SA forums for telling me about the cognitive disfluency effect!
 
-### Further Reading
-Make it Stick by Peter C. Brown:
+### References
+
+
 
 <blockquote>
 <sub>
+  [1] Brown, Peter C., Henry L. Roediger III, and Mark A. McDaniel. Make it stick. Harvard University Press, 2014.
   “Several studies have shown that although making text more difficult to read by leaving out letters or using an unusual typography may slow reading, readers remember more.
-See M. A. McDaniel, G. O. Einstein, P. K. Dunay, & R. Cobb, Encoding difficulty and memory: Toward a unifying theory, Journal of Memory and Language 25 (1986), 645–656, 
-and C. Diemand-Yauman, D. Oppenheimer, & E. B. Vaughn, Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes, Cognition 118 (2010), 111–115.
- The study in which the outline either matched or mismatched the chapter is S. M. Mannes & W. Kintsch, Knowledge organization and text organization, Cognition and Instruction 4 (1987), 91–115.”
+  [2] M. A. McDaniel, G. O. Einstein, P. K. Dunay, & R. Cobb, Encoding difficulty and memory: Toward a unifying theory, Journal of Memory and Language 25 (1986), 645–656, 
+  [3] C. Diemand-Yauman, D. Oppenheimer, & E. B. Vaughn, Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes, Cognition 118 (2010), 111–115.
+  [4] (A study in which the outline either matched or mismatched the chapter)
+  S. M. Mannes & W. Kintsch, Knowledge organization and text organization, Cognition and Instruction 4 (1987), 91–115.”
   </sub>
   </blockquote>
