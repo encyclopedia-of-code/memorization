@@ -87,8 +87,7 @@ Thanks to CrazySalamander from the SA forums for telling me about the cognitive 
 
 <blockquote>
   
-  <sub>[1] Brown, Peter C., Henry L. Roediger III, and Mark A. McDaniel. Make it stick. Harvard University Press, 2014.
-  “Several studies have shown that although making text more difficult to read by leaving out letters or using an unusual typography may slow reading, readers remember more.</sub>
+  <sub>[1] “Several studies have shown that although making text more difficult to read by leaving out letters or using an unusual typography may slow reading, readers remember more." Brown, Peter C., Henry L. Roediger III, and Mark A. McDaniel. Make it stick. Harvard University Press, 2014.</sub>
   
   <sub>[2] M. A. McDaniel, G. O. Einstein, P. K. Dunay, & R. Cobb, Encoding difficulty and memory: Toward a unifying theory, Journal of Memory and Language 25 (1986), 645–656</sub>
   
