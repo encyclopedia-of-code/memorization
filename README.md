@@ -80,6 +80,7 @@ else:
   editor.setAnchor( anchor )
 ```
 Thanks to CrazySalamander from the SA forums for telling me about the cognitive disfluency effect!
+
 ###Further Reading
 Make it Stick by Peter C. Brown:
 
