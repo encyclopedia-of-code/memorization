@@ -1,10 +1,10 @@
 # memorization
 
-![Usage example](example.gif "Usage example")
-
-This tool helps you memorize any text using what's known as the "cognitive disfluency effect" -- by gradually "corrupting" your text while you're trying to learn it.  It works within your Notepad++ text editor.
+This tool helps you memorize any text using what's known as the "cognitive disfluency effect" -- by gradually "corrupting" the text passage while you're trying to learn it.  It works within your Notepad++ text editor.
 
 Various researchers have discovered that learning is actually enhanced in some cases where the reader is forced to concentrate harder, such as when text is blurred or in an unfamiliar font <sup>`[1-4]`</sup>.
+
+![Usage example](example.gif "Usage example")
 
 Using a small Python script, this tool adds that sort of functionality to Notepad++.  By pressing a keyboard shortcut, you can "corrupt" a selected region of text (or if none, corrupt the current line).  "Corrupting" changes one random character to something else; hold the key down to corrupt a lot.
 
