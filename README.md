@@ -34,7 +34,7 @@ All you have to with your Notepad++ install is open the "Plugins" menu and selec
 
 Follow the advice below, found [here](https://community.notepad-plus-plus.org/topic/14703/run-python-script-pythonscript-plugin-with-a-shortcut/3):
 
-<blockquote style="font-size:4px">
+<blockquote>
   
 <sub>Go to **Plugins** (menu) -> **Python Script** -> **Configuration**. The **Python Script Shortcut Configuration** window will appear.</sub>
 
@@ -80,3 +80,14 @@ else:
   editor.setAnchor( anchor )
 ```
 Thanks to CrazySalamander from the SA forums for telling me about the cognitive disfluency effect!
+###Further Reading
+Make it Stick by Peter C. Brown:
+
+<blockquote>
+<sub>
+  “Several studies have shown that although making text more difficult to read by leaving out letters or using an unusual typography may slow reading, readers remember more.
+See M. A. McDaniel, G. O. Einstein, P. K. Dunay, & R. Cobb, Encoding difficulty and memory: Toward a unifying theory, Journal of Memory and Language 25 (1986), 645–656, 
+and C. Diemand-Yauman, D. Oppenheimer, & E. B. Vaughn, Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes, Cognition 118 (2010), 111–115.
+ The study in which the outline either matched or mismatched the chapter is S. M. Mannes & W. Kintsch, Knowledge organization and text organization, Cognition and Instruction 4 (1987), 91–115.”
+  </sub>
+  </blockquote>
