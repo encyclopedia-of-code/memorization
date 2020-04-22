@@ -1,4 +1,7 @@
 # memorization
+
+![Usage example](example.gif "Usage example")
+
 This tool helps you memorize any text using what's known as the "cognitive disfluency effect" -- by gradually "corrupting" your text while you're trying to learn it.  It works within your Notepad++ text editor.
 
 Various researchers have discovered that learning is actually enhanced in some cases where the reader is forced to concentrate harder, such as when text is blurred or in an unfamiliar font <sup>`[1-4]`</sup>.
