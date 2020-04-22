@@ -86,15 +86,15 @@ Thanks to CrazySalamander from the SA forums for telling me about the cognitive 
 
 
 <blockquote>
-<sub>
-  [1] Brown, Peter C., Henry L. Roediger III, and Mark A. McDaniel. Make it stick. Harvard University Press, 2014.
-  “Several studies have shown that although making text more difficult to read by leaving out letters or using an unusual typography may slow reading, readers remember more.
   
-  [2] M. A. McDaniel, G. O. Einstein, P. K. Dunay, & R. Cobb, Encoding difficulty and memory: Toward a unifying theory, Journal of Memory and Language 25 (1986), 645–656
+  <sub>[1] Brown, Peter C., Henry L. Roediger III, and Mark A. McDaniel. Make it stick. Harvard University Press, 2014.
+  “Several studies have shown that although making text more difficult to read by leaving out letters or using an unusual typography may slow reading, readers remember more.</sub>
   
-  [3] C. Diemand-Yauman, D. Oppenheimer, & E. B. Vaughn, Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes, Cognition 118 (2010), 111–115.
+  <sub>[2] M. A. McDaniel, G. O. Einstein, P. K. Dunay, & R. Cobb, Encoding difficulty and memory: Toward a unifying theory, Journal of Memory and Language 25 (1986), 645–656</sub>
   
-  [4] (A study in which the outline either matched or mismatched the chapter)
+  <sub>[3] C. Diemand-Yauman, D. Oppenheimer, & E. B. Vaughn, Fortune favors the bold (and the italicized): Effects of disfluency on educational outcomes, Cognition 118 (2010), 111–115.</sub>
+  
+  <sub>[4] (A study in which the outline either matched or mismatched the chapter)
   S. M. Mannes & W. Kintsch, Knowledge organization and text organization, Cognition and Instruction 4 (1987), 91–115.”
   </sub>
   </blockquote>
